@@ -76,6 +76,3 @@ Naitik Sharma
 email - naitik28sharma@gmail.com
 linkdin - www.linkedin.com/in/naitik-sharma-54627335a 
 
-Email: your.email@example.com
-
-LinkedIn: linkedin.com/in/yourprofile
