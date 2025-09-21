@@ -24,7 +24,7 @@ Data Visualization: Chart.js for investment projections
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Salary-Distribution-System.git
+git clone https://naitik-ml-ai.github.io/Salary-Distribution-System/
 
 
 Navigate into the project directory:
@@ -42,7 +42,7 @@ Run the application:
 python app.py
 
 
-The application will be accessible at http://localhost:5000.
+The application will be accessible at https://naitik-ml-ai.github.io/Salary-Distribution-System/
 
 📊 Usage
 
